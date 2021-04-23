@@ -1,6 +1,6 @@
-Welcome to meowmazon!
+#Welcome to Meowmazon!
 
-For this project me and my teammates created meowmazon. A place to get all of your cat shopping needs!
+For this project me and my teammates were tasked with creating a shopping site. We decided to create #Meowmazon: A place to get all of your cat shopping needs!
 
 https://meowmazon.herokuapp.com/products
 
