@@ -1,4 +1,5 @@
-###Welcome to Meowmazon!
+### Wecome to Meowmazon!
+
 
 For this project me and my teammates were tasked with creating a shopping site. We decided to create #Meowmazon: A place to get all of your cat shopping needs!
 
